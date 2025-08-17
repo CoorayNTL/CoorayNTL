@@ -7,7 +7,7 @@ Passionate about solving real-world problems through **cutting-edge software eng
 
 ## 👀 Interests  
 - 🚀 Innovative R&D in Software Engineering  
-- 🌐 Blockchain Decentralized Applications  
+- 🌐 .NET + JS Applications as well as Blockchain Decentralized Applications  
 - 🤖 Artificial Intelligence, Machine Learning & Explainable AI (XAI)  
 - 📊 Data Compression, Synchronization & Performance Optimization for low-bandwidth environments  
 - 💻 Scalable Frontend & Backend Architectures  
