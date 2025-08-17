@@ -15,6 +15,16 @@ Passionate about solving real-world problems through **cutting-edge software eng
 
 ---
 
+## 🛠️ Tech Stack  
+**Languages:** Java, JavaScript, TypeScript, C#, PHP, Python  
+**Frontend:** Angular (12–17), React.js, Redux, Angular Material, MUI  
+**Backend:** Node.js, .NET Core, ASP.NET Core, Laravel(5+), Express.js  
+**Databases:** MS SQL, MySQL, MongoDB, PostgreSQL  
+**Cloud & DevOps:** Azure, AWS (S3, EC2), Docker, Kubernetes (basic), CI/CD Pipelines  
+**Other:** SOLID Principles, Database Indexing, Jira, ClickUp  
+
+---
+
 ## 🌱 Currently Learning  
 - ☁️ **AWS Certified** (Cloud Services & Architecture)  
 - ⚙️ **Kubernetes Certified** (Container Orchestration & Deployment) 
@@ -34,16 +44,6 @@ I’m looking to collaborate on:
 - 📧 Email: [tharindulakshancooray@gmail.com](mailto:tharindulakshancooray@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/tharindu-lakshan](https://www.linkedin.com/in/tharindu-lakshan-9551561ab/)  
 - 🏆 HackerRank: [hackerrank.com/NTLCzz](https://www.hackerrank.com/NTLCzz)  
-
----
-
-## 🛠️ Tech Stack  
-**Languages:** Java, JavaScript, TypeScript, C#, PHP, Python  
-**Frontend:** Angular (12–17), React.js, Redux, Angular Material, MUI  
-**Backend:** Node.js, .NET Core, ASP.NET Core, Laravel(5+), Express.js  
-**Databases:** MS SQL, MySQL, MongoDB, PostgreSQL  
-**Cloud & DevOps:** Azure, AWS (S3, EC2), Docker, Kubernetes (basic), CI/CD Pipelines  
-**Other:** SOLID Principles, Database Indexing, Jira, ClickUp  
 
 ---
 
